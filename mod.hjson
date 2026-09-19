@@ -1,0 +1,7 @@
+name: production-calculator
+displayName: "Production calculator"
+author: "[]DY[red]LAN[blue]CHIK"
+description: "My first mod. This mod gives you a new calculator button. Now you can fully calculate the required amount of resources, energy, and heat for production."
+version: "1.0"
+minGameVersion: 160
+hidden: false
